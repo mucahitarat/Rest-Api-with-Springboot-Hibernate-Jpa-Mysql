@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shart
+Build-Jdk: 14.0.1
+Implementation-Title: mucahit_SpringbootRestApi_project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javacourse.proect
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/hibernateAndJpa
+Created-By: Maven Integration for Eclipse
+
